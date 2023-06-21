@@ -1,0 +1,122 @@
+body {
+    background-color: aquamarine; /* Set your desired background color here */
+}
+
+header{
+    font-size: 30px;
+    font-family:'Courier New', Courier, monospace;
+}
+
+footer{
+    font-size: 30px;
+    font-family:'Courier New', Courier, monospace;
+}
+
+.tile {
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    display: inline-block;
+    text-align: center;
+    line-height: 100px;
+    font-size: 18px;
+}
+
+.tile1 {
+    background-color: white; 
+}
+
+.tile2 {
+    background-color: white; 
+}
+.tile3 {
+    background-color: white; 
+}
+
+.tile4 {
+    background-color: white ; 
+}
+
+.tile5 {
+    background-color: white ; 
+}
+
+.tile6 {
+    background-color: white ; 
+}
+
+.tile7 {
+    background-color: white; 
+}
+
+.tile8 {
+    background-color: white; 
+}
+
+.tile9 {
+    background-color: white; 
+}
+
+.tile10 {
+    background-color: white; 
+}
+
+.tile11 {
+    background-color: white; 
+}
+
+.tile12 {
+    background-color: white; 
+}
+
+.tile13 {
+    background-color: white; 
+}
+
+.tile14 {
+    background-color: white; 
+}
+
+.tile15 {
+    background-color: white; 
+}
+
+.tile16 {
+    background-color: white; 
+}
+
+.tile17 {
+    background-color: white; 
+}
+
+.tile18 {
+    background-color: white; 
+}
+
+.tile19 {
+    background-color: white; 
+}
+
+.tile20 {
+    background-color: white; 
+}
+
+.tile21 {
+    background-color: white; 
+}
+
+.tile22 {
+    background-color: white; 
+}
+
+.tile23 {
+    background-color: white; 
+}
+
+.tile24 {
+    background-color: white; 
+}
+
+.tile25 {
+    background-color: white; 
+}
